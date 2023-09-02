@@ -1,0 +1,3 @@
+Rating,Professor Gender,Comment Text
+5.0,W,jans is great she is a fantastic teacher and her class was both interesting and lively she does expect you to read a lot out of the book and other sources as well she is a very lively teacher and you can tell she loves the subject she teaches
+1.0,M,this teacher will not inspire you to be a better programmer he takes pride in deducting as many points as possible do you want to get on an assignment because you forgot to comment the number and use correct naming conventions even though your program runs this professor is for you
